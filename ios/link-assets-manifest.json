@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Typo Grotesk Black Demo.otf",
+      "sha1": "ed92e01ceaabeacc91ab10e3c65d01b3173130ca"
+    },
+    {
+      "path": "assets/fonts/Typo Grotesk Bold Demo.otf",
+      "sha1": "584d9bde9d28ce51a5b799023148482aceeb12f8"
+    },
+    {
+      "path": "assets/fonts/Typo Grotesk Demo.otf",
+      "sha1": "9789029b34a8c001c9132c6c7ddc1f3a7f20b504"
+    },
+    {
+      "path": "assets/fonts/Typo Grotesk Thin Demo.otf",
+      "sha1": "7b00b1d92e7d0cc41640b7d6c8cc61fa88da6692"
+    }
+  ]
+}
